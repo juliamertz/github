@@ -13,13 +13,16 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Make sure you have the [Stylus](https://github.com/openstyles/stylus) browser extension installed
+1. Visit [this link](https://github.com/jorismertz/github-rosepine/raw/master/rose-pine.user.css)
+2. Configure your preferred accent color and theme variant
+3. Click install on the top left
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Rosé Pine](https://i.imgur.com/aQEI3nl.png)
+![Rosé Pine Moon](https://i.imgur.com/LnG40xk.png)
+![Rosé Pine Dawn](https://i.imgur.com/POfHEVx.png)
 
 ## Thanks to
 
