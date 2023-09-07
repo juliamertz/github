@@ -67,7 +67,6 @@
     @highlightLow: #f4ede8;
     @highlightMed: #dfdad9;
     @highlightHigh: #cecacd;
-    
   };
 };
 
@@ -104,7 +103,7 @@
     max-width: 40ch;
     background-color: var(--color-danger-fg);
     color: var(--color-header-bg);
-    content: "You're using an unsupported GitHub theme! Please switch to the default light/dark theme to get the best experience for the rosepine GitHub userstyle.";
+    content: "You're using an unsupported GitHub theme! Please switch to the default light/dark theme to get the best experience for the Rosé Pine GitHub userstyle.";
     z-index: 9999;
   }
 
