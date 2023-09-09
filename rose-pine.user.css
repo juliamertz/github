@@ -813,7 +813,7 @@
     }
 
     ::selection {
-      background: @highlightLow !important;
+      background: @accent-color !important;
     }
 
     /* New change visibility box star and watcher preview buttons Fix */
@@ -1643,6 +1643,13 @@
     .eNSiNz .segmentedControl-content,
     .gKuCoB .segmentedControl-content {
       background-color: @base;
+    }
+
+    /* File explorer symbols tab fix */
+    .kpTqBE,
+    .kOiDKU,
+    .kpTqBE {
+      background-color: @base !important;
     }
 
     /* Notification Menu Fix */
