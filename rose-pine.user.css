@@ -446,8 +446,8 @@
       --color-attention-emphasis: @gold;
       --color-attention-muted: rgba(187, 128, 9, 0.4);
       --color-attention-subtle: rgba(187, 128, 9, 0.15);
-      --color-severe-fg: @muted;
-      --color-severe-emphasis: @muted;
+      --color-severe-fg: @love;
+      --color-severe-emphasis: @love;
       --color-severe-muted: rgba(219, 109, 40, 0.4);
       --color-severe-subtle: rgba(219, 109, 40, 0.15);
       --color-danger-fg: @rose;
@@ -812,7 +812,7 @@
     }
 
     ::selection {
-      background: @accent-color !important;
+      background: @highlightMed !important;
     }
 
     /* New change visibility box star and watcher preview buttons Fix */
